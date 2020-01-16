@@ -1,0 +1,30 @@
+.bottle{
+    
+    &__sectioncontent{
+        background-color: rgba(35, 35, 35, 0.8);
+        padding: 41px 18px 30px 34px;
+    }
+    &__subtitle{
+        font-size: 20px;
+        margin-bottom: 30px;
+        color: #e8e8e8;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 300;
+    }
+    &__title{
+        font-size: 20px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+        color: #e8e8e8;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 300;
+    }
+    &__text{
+        color: #e8e8e8;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        margin-bottom: 34px;
+        line-height: 26px;
+    }
+}

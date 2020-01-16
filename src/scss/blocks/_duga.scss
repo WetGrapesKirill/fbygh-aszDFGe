@@ -1,0 +1,9 @@
+.duga{
+    position:absolute;
+    left: 48%;
+    top: -40%;
+    &::after{
+        content: url(./css/images/Shape1.svg);
+        
+    }
+}

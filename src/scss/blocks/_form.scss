@@ -1,0 +1,33 @@
+.form{
+    margin-bottom: 120px;
+    &__text{
+        position:absolute;
+        color: #999;
+        font-family: 'JosefinSans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+        top: 10%;
+        left: 36%;
+    }
+    &__button{
+        background-color: #5474fd;
+        border: 2px solid white;
+        display: flex;
+        color: white;
+        justify-content: center;
+        align-items: center;
+        padding:18px 20px;
+    }
+    &__buttontext{
+        font-family: 'Aleo', serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+        text-transform: uppercase;
+        margin-right:15px;
+    }
+    &__input:focus+&__text{
+        display: none;
+    }
+}

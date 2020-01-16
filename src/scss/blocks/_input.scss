@@ -1,0 +1,10 @@
+.input{
+    &__text{
+        width: 100%;
+        border: 2px solid white;
+        padding: 24px;
+    }
+    &__text:focus{
+        border-color:  #5474fd;
+    }
+}

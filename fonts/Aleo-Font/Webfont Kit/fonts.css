@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'wedfontkitbold';
+    src: url('Bold/aleo-bold-webfont.woff2') format('woff2'),
+         url('Bold/aleo-bold-webfont.woff') format('woff'),
+         url('Bold/aleo-bold-webfont.eot') format('eot'),
+         url('Bold/aleo-bold-webfont.ttf') format('ttf'),;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'wedfontkitbolditalic';
+    src: url('Bolditalic/aleo-bolditalic-webfont.woff2') format('woff2'),
+         url('Bolditalic/aleo-bolditalic-webfont.woff') format('woff'),
+         url('Bolditalic/aleo-bolditalic-webfont.eot') format('eot'),
+         url('Bolditalic/aleo-bolditalic-webfont.ttf') format('ttf'),;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'wedfontkitlight';
+    src: url('light/aleo-light-webfont.woff2') format('woff2'),
+         url('light/aleo-light-webfont.woff') format('woff'),
+         url('light/aleo-light-webfont.eot') format('eot'),
+         url('light/aleo-light-webfont.ttf') format('ttf'),;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'wedfontkitlightitalic';
+    src: url('lightitalic/aleo-lightitalic-webfont.woff2') format('woff2'),
+         url('lightitalic/aleo-lightitalic-webfont.woff') format('woff'),
+         url('lightitalic/aleo-lightitalic-webfont.eot') format('eot'),
+         url('lightitalic/aleo-lightitalic-webfont.ttf') format('ttf'),;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'wedfontkitregular';
+    src: url('regularitalic/aleo-regular-webfont.woff2') format('woff2'),
+         url('regular/aleo-regular-webfont.woff') format('woff'),
+         url('regular/aleo-regular-webfont.eot') format('eot'),
+         url('regular/aleo-regular-webfont.ttf') format('ttf'),;
+    font-weight: normal;
+    font-style: normal;
+}
+font-face {
+    font-family: 'wedfontkitregularitalic';
+    src: url('regularitalic/aleo-italic-webfont.woff2') format('woff2'),
+         url('regularitalic/aleo-italic-webfont.woff') format('woff'),
+         url('regularitalic/aleo-italic-webfont.eot') format('eot'),
+         url('regularitalic/aleo-italic-webfont.ttf') format('ttf'),;
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,18 @@
+.header{
+    &__title{
+        font-family: 'Josefin Sans',sans-serif;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 26px;
+        margin-bottom: 18px;
+    }
+    &__subtitle{
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 22px;
+        font-weight: 300;
+        line-height: 26px;
+        letter-spacing: 7px;
+        margin-bottom: 41px;
+    }
+
+}

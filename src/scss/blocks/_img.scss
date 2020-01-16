@@ -1,0 +1,27 @@
+.img{
+    &__whychooseus{
+        position: relative;
+    }
+    &__whychooseus1{
+        left: 12%;
+    }
+    &__whychooseus2{
+        left: 36%;
+    }
+    &__howitworks{
+        padding: 15px;    
+    }
+    &__bgradius{
+        background-color: #333333;
+        border-radius: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+        z-index: 1;
+    }
+    &__human{
+        width: 100%;
+        height: 100%;
+    }
+}
